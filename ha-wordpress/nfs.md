@@ -26,7 +26,7 @@ Install nfs-common</br>
 
 Create a local directory to mount the remote directory to and mount:</br>
 `mkdir -p /mnt/data`</br>
-`mount ip.ad.dr.es:/opt/data /mnt/data`
+`mount ip.ad.dr.ess:/opt/data /mnt/data`
 
 Add this mount to `/etc/fstab` to ensure it is automatically mounted on reboot:</br>
-`echo "192.168.1.98:/opt/data /mnt/data nfs rw,sync,hard,intr 0 0" >> /etc/fstab`
+`echo "ip.ad.dr.ess:/opt/data /mnt/data nfs rw,sync,hard,intr 0 0" >> /etc/fstab`
