@@ -5,7 +5,7 @@
 Provisioning RPi with HypriotOS and installing kube:</br>
 https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/
 
-Setting up HA stack:
+Setting up HA stack:</br>
 https://thenewstack.io/deploy-highly-available-wordpress-instance-statefulset-kubernetes-1-5/
 
 
